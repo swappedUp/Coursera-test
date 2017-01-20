@@ -18,7 +18,7 @@ h1{
 #section1,#section2,#section3{
     background-color: #808080;
     width:90%;
-    height:30%;
+    height:18%;
     margin: 15px;    
     border-style: solid;
     border-width: 3px;
@@ -57,7 +57,7 @@ section > p{
 
 	#section1,#section2,#section3{
 		width: 30%;
-        height: 45%;
+        height: 30%;
     	margin-right: 1%;
         border-style: solid;
         border-width: 3px;
@@ -71,7 +71,7 @@ section > p{
 @media(min-width: 768px) and (max-width: 991px){
 	#section1,#section2{
 		width: 46%;
-        height: 40%;
+        height: 25%;
 		margin-right: 1%;
         margin-bottom: 3%;
         border-style: solid;
@@ -83,7 +83,7 @@ section > p{
 
 	#section3{
 		width: 95%;
-        height: 30%;
+        height: 18%;
 		margin-top: 2%;
         border-style: solid;
         border-width: 3px;
